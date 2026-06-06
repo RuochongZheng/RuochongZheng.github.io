@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ruochong Zheng"
 title_separator          : "-"
 name                     : &name "Ruochong Zheng"
-description              : &description "Generative world modeling, embodied video prediction, 3D scene understanding, and visual generation."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Generative world modeling for embodied intelligence: visual generation, predictive-state video models, and 3D scene understanding."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ruochongzheng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ruochong Zheng"
   pronouns         : # example: "she/her"
-  bio              : "M.S. student at Peking University working on generative world modeling, embodied video prediction, and 3D scene understanding."
+  bio              : "Peking University"
   location         : "Shenzhen, China"
   employer         : "Peking University"
   uri              : "https://ruochongzheng.github.io/academicpages.github.io/"
