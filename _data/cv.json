@@ -1,152 +1,138 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ruochong Zheng",
+    "email": "rczheng@stu.pku.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ruochongzheng.github.io/academicpages.github.io/",
+    "summary": "M.S. student at Peking University working on generative world modeling, embodied video prediction, 3D scene understanding, and visual generation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Shenzhen",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "RuochongZheng",
+        "url": "https://github.com/RuochongZheng"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Zhipu AI / CogVideo & GLM-Image",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2025-11",
+      "endDate": "2026-05",
+      "summary": "Worked on autoregressive image generation, AR-decoder training, model migration, SFT data iteration, and automated evaluation.",
+      "highlights": [
+        "Migrated AR image generation models from a 9B dense architecture to a 30B-A3B MoE backbone.",
+        "Built an end-to-end evaluation pipeline for checkpoint submission, prior-token generation, decoder inference, automated scoring, and web visualization.",
+        "Constructed knowledge-intensive, long-text rendering, Asian portrait, arXiv/chart data, and VLM/OCR evaluation sets."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "Peking University",
+      "area": "Computer Science and Technology",
+      "studyType": "M.S.",
+      "startDate": "2024-09",
+      "endDate": "2027-06",
+      "gpa": "3.79/4.0",
+      "courses": [
+        "3D Vision and Computational Photography",
+        "Artificial Intelligence",
+        "Intelligent Robotics"
+      ]
+    },
+    {
+      "institution": "Beijing Jiaotong University",
+      "area": "Software Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2020-09",
+      "endDate": "2024-06",
+      "gpa": "3.27/4.0",
+      "courses": [
+        "Machine Learning",
+        "Data Structures",
+        "Computer Networks",
+        "Database Systems"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Generative world modeling",
+        "Embodied video prediction",
+        "Visual generation",
+        "3D Gaussian Splatting",
+        "Tokenization"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "keywords": [
+        "PyTorch",
+        "Distributed training",
+        "MoE adaptation",
+        "VLM/OCR evaluation",
+        "Python",
+        "Linux"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "World Models",
+        "VLA",
+        "Embodied AI",
+        "Video Generation",
+        "3D AIGC",
+        "Multimodal Agents"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "StateStream: Learning Predictive State for Embodied Video World Models",
+      "publisher": "Manuscript",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "Predictive-state embodied video world model for long-horizon rollout, action-conditioned future evaluation, and observation-based state updates."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "BiHiTo: Biomolecular Hierarchy-inspired Tokenization",
+      "publisher": "AAAI 2026",
+      "releaseDate": "2026-02-01",
+      "website": "https://ojs.aaai.org/index.php/AAAI/article/view/40119",
+      "summary": "Hierarchical tokenizer for all-atom biomolecular structures."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting",
+      "publisher": "ICCV 2025",
+      "releaseDate": "2025-10-01",
+      "website": "https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Tune-Your-Style_Intensity-tunable_3D_Style_Transfer_with_Gaussian_Splatting_ICCV_2025_paper.pdf",
+      "summary": "Intensity-controllable 3D style transfer for Gaussian Splatting scenes."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "iSegMan: Interactive Segment-and-Manipulate 3D Gaussians",
+      "publisher": "CVPR 2025",
+      "releaseDate": "2025-06-01",
+      "website": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_iSegMan_Interactive_Segment-and-Manipulate_3D_Gaussians_CVPR_2025_paper.pdf",
+      "summary": "Interactive 3D Gaussian segmentation and manipulation framework."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
