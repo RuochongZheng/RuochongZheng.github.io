@@ -3,7 +3,7 @@
     "name": "Ruochong Zheng",
     "email": "rczheng@stu.pku.edu.cn",
     "phone": "",
-    "website": "https://ruochongzheng.github.io/academicpages.github.io/",
+    "website": "https://ruochongzheng.github.io/",
     "summary": "M.S. student at Peking University working on generative world modeling, embodied video prediction, 3D scene understanding, and visual generation.",
     "location": {
       "address": "",
@@ -121,7 +121,7 @@
       "name": "BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation",
       "publisher": "Manuscript",
       "releaseDate": "2026-06-02",
-      "website": "https://ruochongzheng.github.io/academicpages.github.io/publication/2026-06-02-biodynaspec",
+      "website": "https://ruochongzheng.github.io/publication/2026-06-02-biodynaspec",
       "summary": "Spatio-spectral generative modeling for long-horizon protein dynamics, reducing trajectory error by over 60% on ATLAS."
     },
     {

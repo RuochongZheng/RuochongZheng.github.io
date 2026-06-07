@@ -2,7 +2,7 @@
 
 This repository hosts my academic personal website, based on the Academic Pages Jekyll template.
 
-Website: https://ruochongzheng.github.io/academicpages.github.io/
+Website: https://ruochongzheng.github.io/
 
 Main research interests:
 
