@@ -17,7 +17,7 @@ My research interests lie in **generative world modeling for embodied intelligen
 # 🔥 News
 
 - *2026.06*: Working on **StateStream**, a predictive-state video world model for embodied long-horizon prediction.
-- *2026.06*: Added **BioDynaSpec**, a spatio-spectral generative model for long-horizon protein dynamics generation.
+- *2026.06*: **BioDynaSpec** was accepted by **ICML 2026**.
 - *2026.05*: Completed a research internship at **Zhipu AI / GLM-Image**, focusing on AR image generation, decoder SFT, and automatic evaluation.
 - *2026.02*: **BiHiTo** appeared in **AAAI 2026** as a first-author work.
 - *2025.10*: **Tune-Your-Style** appeared in **ICCV 2025**.
@@ -47,7 +47,7 @@ My current research connects three threads:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Manuscript 2026</div><img src="{{ site.baseurl }}/images/papers/biodynaspec.png" alt="BioDynaSpec" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICML 2026</div><img src="{{ site.baseurl }}/images/papers/biodynaspec.png" alt="BioDynaSpec" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation]({{ site.baseurl }}/publication/2026-06-02-biodynaspec)

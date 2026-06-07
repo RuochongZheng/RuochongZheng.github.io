@@ -119,7 +119,7 @@
     },
     {
       "name": "BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation",
-      "publisher": "Manuscript",
+      "publisher": "ICML 2026",
       "releaseDate": "2026-06-02",
       "website": "https://ruochongzheng.github.io/publication/2026-06-02-biodynaspec",
       "summary": "Spatio-spectral generative modeling for long-horizon protein dynamics, reducing trajectory error by over 60% on ATLAS."
