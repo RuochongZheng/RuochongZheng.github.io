@@ -60,7 +60,7 @@ Mujie Lin, Yutian Liu, Yudi Guo, Yanzhen Hou, Yiheng Tao, **Ruochong Zheng**, Ka
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="{{ site.baseurl }}/images/papers/bihito.png" alt="BiHiTo" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="{{ site.baseurl }}/images/papers/bihito-20260607.png" alt="BiHiTo" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [BiHiTo: Biomolecular Hierarchy-inspired Tokenization](https://ojs.aaai.org/index.php/AAAI/article/view/40119)
@@ -73,7 +73,7 @@ Mujie Lin, Yutian Liu, Yudi Guo, Yanzhen Hou, Yiheng Tao, **Ruochong Zheng**, Ka
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2025</div><img src="{{ site.baseurl }}/images/papers/isegman.png" alt="iSegMan" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2025</div><img src="{{ site.baseurl }}/images/papers/isegman-20260607.png" alt="iSegMan" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [iSegMan: Interactive Segment-and-Manipulate 3D Gaussians](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_iSegMan_Interactive_Segment-and-Manipulate_3D_Gaussians_CVPR_2025_paper.pdf)
@@ -86,7 +86,7 @@ Yian Zhao, Wanshi Xu, **Ruochong Zheng**, Pengchong Qiao, Chang Liu, Jie Chen
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCV 2025</div><img src="{{ site.baseurl }}/images/papers/tune-your-style.png" alt="Tune-Your-Style" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCV 2025</div><img src="{{ site.baseurl }}/images/papers/tune-your-style-20260607.png" alt="Tune-Your-Style" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 
 [Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Tune-Your-Style_Intensity-tunable_3D_Style_Transfer_with_Gaussian_Splatting_ICCV_2025_paper.pdf)
