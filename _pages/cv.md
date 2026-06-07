@@ -60,6 +60,13 @@ Publications and Projects
 - Proposed a hierarchical tokenization framework for all-atom biomolecular structures, mapping proteins, RNA, and small molecules into multi-level discrete codebooks.
 - Designed the NHQ module for biologically structured vector quantization, improving OOD generalization; reduced RMSD by 25% on RNA3DB and 51% on FastFolding OOD protein multi-conformation reconstruction compared with Bio2Token.
 
+**BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation**
+
+2026.06
+
+- Studied spatio-spectral generative modeling for long-horizon protein dynamics using harmonic-guided spectral representations and autoregressive diffusion.
+- Reduced trajectory error by over 60% on ATLAS, demonstrating the effectiveness of spatio-spectral modeling for protein dynamics generation.
+
 **Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting**, ICCV 2025
 
 2024.12 - 2025.03

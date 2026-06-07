@@ -118,6 +118,13 @@
       "summary": "Hierarchical tokenizer for all-atom biomolecular structures."
     },
     {
+      "name": "BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation",
+      "publisher": "Manuscript",
+      "releaseDate": "2026-06-02",
+      "website": "https://ruochongzheng.github.io/academicpages.github.io/publication/2026-06-02-biodynaspec",
+      "summary": "Spatio-spectral generative modeling for long-horizon protein dynamics, reducing trajectory error by over 60% on ATLAS."
+    },
+    {
       "name": "Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting",
       "publisher": "ICCV 2025",
       "releaseDate": "2025-10-01",

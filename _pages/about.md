@@ -17,6 +17,7 @@ My research interests lie in **generative world modeling for embodied intelligen
 # 🔥 News
 
 - *2026.06*: Working on **StateStream**, a predictive-state video world model for embodied long-horizon prediction.
+- *2026.06*: Added **BioDynaSpec**, a spatio-spectral generative model for long-horizon protein dynamics generation.
 - *2026.05*: Completed a research internship at **Zhipu AI / GLM-Image**, focusing on AR image generation, decoder SFT, and automatic evaluation.
 - *2026.02*: **BiHiTo** appeared in **AAAI 2026** as a first-author work.
 - *2025.10*: **Tune-Your-Style** appeared in **ICCV 2025**.
@@ -29,6 +30,7 @@ My current research connects three threads:
 - **Visual generation as world priors.** I study how large-scale image/video generation models can provide visual priors, synthetic data, instruction-following behavior, and evaluation signals for VLA and embodied agents.
 - **Predictive-state world models.** I explore video world models that move beyond fixed-window clip generation toward persistent states for long-horizon rollout, action-conditioned future evaluation, and online state correction.
 - **3D scene understanding and interaction.** I work with 3D Gaussian Splatting and controllable scene representations for spatial grounding, interactive segmentation, and 3D-aware generation.
+- **Structured dynamics generation.** I am also interested in generative modeling for complex structured systems, including protein dynamics and biomolecular representations.
 
 # 📝 Selected Publications and Preprints
 
@@ -42,6 +44,19 @@ My current research connects three threads:
 [**Project**]({{ site.baseurl }}/publication/2026-06-01-statestream)
 
 - We recast embodied video prediction as **predictive state modeling**. StateStream uses block-causal attention, a monotone noise hierarchy, and a rolling KV cache to maintain reusable predictive states, supporting long-horizon rollout, action-conditioned future evaluation, and observation-based state updates. On BridgeV2 125/253/381-frame prediction, it improves PSNR by 5.13/4.94/3.84 and SSIM by 0.174/0.222/0.182 over non-streaming baselines.
+</div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Manuscript 2026</div><img src="{{ site.baseurl }}/images/papers/biodynaspec.png" alt="BioDynaSpec" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
+
+[BioDynaSpec: Harmonic-Guided Spatio-Spectral Autoregressive Diffusion for Protein Dynamics Generation]({{ site.baseurl }}/publication/2026-06-02-biodynaspec)
+
+Mujie Lin, Yutian Liu, Yudi Guo, Yanzhen Hou, Yiheng Tao, **Ruochong Zheng**, Kaiwen Cheng, Xin Shan, Youdong Mao, Jie Chen
+
+[**Paper**]({{ site.baseurl }}/publication/2026-06-02-biodynaspec) · **Code coming soon**
+
+- We study spatio-spectral generative modeling for long-horizon protein dynamics. BioDynaSpec combines harmonic-guided spectral representations with autoregressive diffusion to generate protein conformational trajectories, reducing trajectory error by over 60% on ATLAS.
 </div>
 </div>
 
